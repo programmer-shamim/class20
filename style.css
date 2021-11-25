@@ -1,0 +1,85 @@
+.header-section{
+    background-color: #E3F2FD;
+}
+.icon-menu{
+    
+    margin-top: 10px;
+    text-align: center;
+}
+.icon{
+    text-align:left;
+    display: inline-block;
+}
+
+.icon img{
+    width: 50px;
+    height: 50px;
+}
+.menu{
+    text-align: left;
+    display: inline-block;
+}
+.menu ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    color: #A8B3BB;
+}
+.menu ul li:hover a{
+    color:#808991fd;
+}
+.input-group{
+    width: 70%;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.bgcolor{
+    background-color: #E9ECEF;
+    color: #7A838A;
+    margin-bottom:10px;
+    
+    padding: 0.875rem 0.75rem;
+    
+}
+.bgcolor{
+    background-color: #E9ECEF;
+    color: #899197;
+    border-radius:5px;
+    
+}
+.subform{
+    margin-top: 40px;
+}
+.toast{
+    margin-top: 40px;
+
+}
+.carousel-item img{
+    width:100%;
+    height: 500px;
+}
+.color{
+    background-color: #D4EDDA;
+    color: #155724;
+}
+.buttons{
+    text-align: right;
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+}
+.alignment{
+    float: right;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0px;
+}
